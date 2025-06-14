@@ -1,4 +1,3 @@
 # OLIST-Analysis
 ## 🔍 Preview
-
-!(preview.jpg)
+[Project Preview](Preview.jpg)
